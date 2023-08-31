@@ -12,6 +12,7 @@ struct reservationName
 
 int main()
 {
+	//Without Branch
 	char a=219, roomChoice;
 	FILE *ptr1;
 	int i=0, value=0, choice=0;
@@ -110,7 +111,7 @@ int main()
 			} while(roomChoice=='Y'|| roomChoice=='y');
 			goto flag;
 		break;
-					
+		
 	}
 	return 0;
 }
