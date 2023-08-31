@@ -13,6 +13,10 @@ struct reservationName
 int main()
 {
 	//Without Branch
+	//without Branch
+		//without Branch
+	//withput Branch
+	printf("\n Branch");
 	char a=219, roomChoice;
 	FILE *ptr1;
 	int i=0, value=0, choice=0;
